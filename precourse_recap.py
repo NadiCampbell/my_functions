@@ -5,4 +5,4 @@ food_order("Burger", "Cola", "10")
 def my_add(num1, num2):
     result = num1 + num2
     print(result)
-my_add(5,10)
+my_add(5,15)
